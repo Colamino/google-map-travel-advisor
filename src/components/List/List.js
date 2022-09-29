@@ -22,7 +22,7 @@ export default function List({
 }) {
   const [elRefs, setElRefs] = useState([]);
 
-  console.log({ childClicked });
+ 
 
   useEffect(() => {
     setElRefs((refs) =>
@@ -31,7 +31,7 @@ export default function List({
         .map((_, i) => refs[i] || createRef())
     );
   }, [places]);
-  console.log({ elRefs });
+
 
   return (
     <div className="list-container">
