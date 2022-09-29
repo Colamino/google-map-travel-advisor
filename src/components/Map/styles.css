@@ -1,0 +1,10 @@
+.map-div {
+  position: absolute;
+  transform: translate(-50%, -50%);
+  z-index: 1;
+  cursor: pointer;
+}
+
+.map-div:hover{
+  z-index: 2;
+}

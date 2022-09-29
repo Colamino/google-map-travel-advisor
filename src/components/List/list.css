@@ -1,0 +1,11 @@
+.list-container {
+  width: 100%;
+  padding: 25px;
+}
+
+.list-loading-div {
+  height: 600px;
+  display: flex; 
+  justify-content: center; 
+  align-items: center
+}
