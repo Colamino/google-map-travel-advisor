@@ -33,8 +33,6 @@ function App() {
     );
   }, []);
 
-  console.log(weatherData);
-  console.log({ InitialWeatherData });
 
   useEffect(() => {
     const filteredPlaces = places?.filter((place) => place?.rating > rating);
