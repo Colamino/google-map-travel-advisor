@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/google-map-travel-advisor/static/css/main.e5ccd121.css",
+    "main.js": "/google-map-travel-advisor/static/js/main.4c00edb3.js",
+    "static/js/787.aa562325.chunk.js": "/google-map-travel-advisor/static/js/787.aa562325.chunk.js",
+    "index.html": "/google-map-travel-advisor/index.html",
+    "main.e5ccd121.css.map": "/google-map-travel-advisor/static/css/main.e5ccd121.css.map",
+    "main.4c00edb3.js.map": "/google-map-travel-advisor/static/js/main.4c00edb3.js.map",
+    "787.aa562325.chunk.js.map": "/google-map-travel-advisor/static/js/787.aa562325.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e5ccd121.css",
+    "static/js/main.4c00edb3.js"
+  ]
+}
